@@ -5,3 +5,5 @@
 [ссылка на комит](https://github.com/byshido84/8.1.-Git/commit/fcf2d01c36d657979a903021e944a6b4a5088593)
 
 ##### 3. 
+[ссылка на граф](https://github.com/byshido84/8.1.-Git/network)
+
