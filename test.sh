@@ -12,8 +12,8 @@ case $brand in
 		echo "Скидка на телефоны $brand - 60%";;
   nokia)
     echo "Скидка на телефоны $brand - 5%";;
-  lenovo)
-    echo "Скидка на телефоны $brand - 35%";;
+  #lenovo)
+  #  echo "Скидка на телефоны $brand - 35%";;
 	*)
 		echo "На этот вид товара скидок нет"
 esac
