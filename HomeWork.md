@@ -7,3 +7,6 @@
 ##### 3. 
 [ссылка на граф](https://github.com/byshido84/8.1.-Git/network)
 
+![скриншот 1](img.png)
+
+![скриншот 2](img_1.png)
